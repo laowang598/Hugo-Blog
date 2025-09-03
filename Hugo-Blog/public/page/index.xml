@@ -2,25 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on LW的博客</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://laowang598.github.io/page/</link>
         <description>Recent content in Pages on LW的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>LW的技术博客</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://laowang598.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>档案</title>
-        <link>http://localhost:1313/%E6%A1%A3%E6%A1%88/</link>
+        <link>https://laowang598.github.io/%E6%A1%A3%E6%A1%88/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E6%A1%A3%E6%A1%88/</guid>
+        <guid>https://laowang598.github.io/%E6%A1%A3%E6%A1%88/</guid>
         <description></description>
         </item>
         <item>
-        <title>Links</title>
-        <link>http://localhost:1313/links/</link>
+        <title>关于</title>
+        <link>https://laowang598.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
+        <guid>https://laowang598.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://laowang598.github.io/%E6%90%9C%E7%B4%A2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://laowang598.github.io/%E6%90%9C%E7%B4%A2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://laowang598.github.io/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://laowang598.github.io/%E5%8F%8B%E9%93%BE/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -49,23 +66,6 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>http://localhost:1313/%E6%90%9C%E7%B4%A2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E6%90%9C%E7%B4%A2/</guid>
-        <description></description>
         </item>
         
     </channel>
