@@ -1,7 +1,7 @@
 baseurl: https://example.com/
 languageCode: en-us
 theme: hugo-theme-stack-3.30.0
-title: Example Site
+title: LW的博客
 copyright: Example Person
 
 # Theme i18n support
