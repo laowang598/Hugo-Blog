@@ -1,5 +1,5 @@
 baseurl: https://laowang598.github.io/
-languageCode: en-us
+languageCode: zh-cn
 theme: hugo-theme-stack-3.30.0
 title: LW的博客
 copyright: LW的技术博客
@@ -10,7 +10,7 @@ DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 languages:
     #en:
@@ -212,12 +212,51 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    # main:
+    #     - identifier: home
+    #       name: 首页
+    #       url: /
+    #       weight: -100
+    #       params:
+    #           icon: home
+    #           newTab: false
+
+    #     - identifier: about
+    #       name: 关于
+    #       url: /about/
+    #       weight: -90
+    #       params:
+    #           icon: user
+    #           newTab: false
+
+    #     - identifier: archives
+    #       name: 归档
+    #       url: /archives/
+    #       weight: -80
+    #       params:
+    #           icon: archives
+    #           newTab: false
+
+    #     - identifier: search
+    #       name: 搜索
+    #       url: /search/
+    #       weight: -70
+    #       params:
+    #           icon: search
+    #           newTab: false
+
+    #     - identifier: links
+    #       name: 友链
+    #       url: /links/
+    #       weight: -60
+    #       params:
+    #           icon: link
+    #           newTab: false
 
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/laowang598
           params:
               icon: brand-github
 
