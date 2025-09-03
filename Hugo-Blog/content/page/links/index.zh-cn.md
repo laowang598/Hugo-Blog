@@ -25,7 +25,7 @@ This page's frontmatter:
 ```yaml
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: GitHub is the world's largest software development platform11.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: TypeScript
